@@ -1,5 +1,5 @@
 {
-  "name": "MatterVN Hass.io Add-ons",
-  "url": "https://github.com/MatterVN/HassioAddon",
-  "maintainer": "TTVTien <ttvtien@gmail.com>"
+  "name": "MatterVN (clone) Hass.io Add-ons",
+  "url": "https://github.com/svenstorp/HassioAddon",
+  "maintainer": "Emil Ljungdahl <emil@kratern.se>"
 }
